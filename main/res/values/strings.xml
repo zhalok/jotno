@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jotno</string>
+    <string name="tutor_login">\tLog in as a Tutor</string>
+    <string name="search_for_tution">\tLook for Tutions</string>
+    <string name="new_profile">" "Create new profile</string>
+    <string name="rate">Rate our app</string>
+    <string name="Later">Later</string>
+
+
+    <string name="firstname">Number1</string>
+    <string name="lastname">Number2</string>
+    <string name="Login">Login</string>
+    <string name="sub">Sub</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+</resources>
